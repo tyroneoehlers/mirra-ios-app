@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mirra-dev-bb089-authRole",
+      "UnauthRoleArn": "arn:aws:iam::277541735139:role/amplify-mirra-dev-bb089-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::277541735139:role/amplify-mirra-dev-bb089-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mirra-dev-bb089-deployment",
+      "UnauthRoleName": "amplify-mirra-dev-bb089-unauthRole",
+      "StackName": "amplify-mirra-dev-bb089",
+      "StackId": "arn:aws:cloudformation:us-east-1:277541735139:stack/amplify-mirra-dev-bb089/a3ce1630-2d19-11f0-be94-0affdf34ce8f",
+      "AmplifyAppId": "d1v8m21hafmx69"
+    }
+  }
+}
